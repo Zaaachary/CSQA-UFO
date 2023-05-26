@@ -1,0 +1,25 @@
+Given qeustion and related knowledge, answer the question.
+
+Question: An example of how sunlight is a source of light from the sun is?
+Knowledge: Sunlight is the direct light from the sun, which is composed of visible light, infrared radiation, and ultraviolet radiation. Sunlight is the main source of energy for photosynthesis in plants, and is also the source of warmth and light for living things on Earth.
+Choices:
+A. weather being variable
+B. raising temps
+C. windmills producing energy
+D. frogs croaking
+Answer: B. raising temps
+
+Question: An example of lots kinetic energy would be?
+Knowledge: Kinetic energy is the energy of motion, and an example of this is a roller coaster, which has a large amount of kinetic energy due to its speed and acceleration.
+Choices:
+A. Drinking a cold glass of water
+B. A snail moving across the sidewalk
+C. sitting without moving anywhere
+D. An aircraft taking a trip
+Answer: D. An aircraft taking a trip
+
+Question: {question}
+Knowledge: {facts}
+Choices:
+{choices}
+Answer:

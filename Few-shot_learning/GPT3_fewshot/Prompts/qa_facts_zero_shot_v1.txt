@@ -1,0 +1,5 @@
+Here are fact, question and choices, please generate the answer.
+Fact: {facts}
+Question: {question}
+Choices: {choices}
+Answer:

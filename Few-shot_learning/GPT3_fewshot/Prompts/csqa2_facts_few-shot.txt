@@ -1,0 +1,19 @@
+Given an assertion or a Yes/No question, classify it into one of two categories: Yes or No.
+
+Q: Some arizona cities have over a million people.
+A: It is known that Arizona is the 14th most populous state in the US, with over 7.3 million people. Of those, the cities of Phoenix, Tucson, Mesa, and Chandler each have populations of over a million people. So the answer is Yes.
+
+Q: Do teenagers always rebel against their parents?
+A: It is known that while some teenagers may rebel against their parents, not all do. Many teenagers are able to maintain a healthy relationship with their parents while developing their own sense of identity. So the answer is No.
+
+Q: There is at least one example of human blood type in the following list: AC, AH, C, OH, BB.
+A: It is known that there are 4 different blood types – A, B, AB and O. These names indicate whether the blood’s red cells carry the A antigen, the B antigen, both A and B antigens, or neither antigen. So the answer is No.
+
+Q: Does an item still belong to you after selling it?
+A: It is known that when an item is sold, the legal ownership is transferred from the seller to the buyer. The seller no longer has any legal rights to the item and is no longer considered the owner. So the answer is No.
+
+Q: all army vets who have fought in the civil war are dead
+A: It is known that the last surviving veteran of the US Civil War, Albert Woolson, died in 1956 at the age of 109. He was the last of an estimated 6.3 million soldiers who served in the Union and Confederate armies during the war. So the answer is Yes.
+
+Q: {question}
+A: It is known that {facts} So the answer is

@@ -1,0 +1,10 @@
+Given a question, classify it into one of two categories: Yes or No.
+
+Question: Some arizona cities have over a million people.
+Answer: Yes
+
+Question: There is at least one example of human blood type in the following list: AC, AH, C, OH, BB.
+Answer: No
+
+Question: {question}
+Answer:

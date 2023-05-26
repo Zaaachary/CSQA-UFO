@@ -1,0 +1,4 @@
+Select the best choice for the given question.
+Question: {question}
+Choices: {choices}
+AnswerKey (A-H):

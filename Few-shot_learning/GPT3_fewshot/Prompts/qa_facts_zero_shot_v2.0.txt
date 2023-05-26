@@ -1,0 +1,5 @@
+Select the best choice for the given question, the related reference may help. 
+Question: {question} 
+Reference: {facts} 
+Choices: {choices} 
+Answer:

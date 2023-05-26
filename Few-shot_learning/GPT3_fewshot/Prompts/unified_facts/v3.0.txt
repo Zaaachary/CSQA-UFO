@@ -1,0 +1,19 @@
+Generate some facts to help the assertion judgement or question answering.
+
+Input: Some arizona cities have over a million people. Is it true?
+Fact: Arizona is the 14th most populous state in the US, with over 7.3 million people. Of those, the cities of Phoenix, Tucson, Mesa, and Chandler each have populations of over a million people.
+
+Input: Small reptiles in Texas can be brown or green on command, we call this
+Fact: Texas horned lizards are small reptiles native to Texas and other parts of the southern US. They have the ability to change their colour on command in order to camouflage with their environment.
+
+Input: Name something that a monk probably would not own.
+Facts: Monks typically live a life of poverty and simplicity. They often take a vow of celibacy and abstain from owning material possessions. They also usually avoid activities and items that could be seen as indulgent.
+
+Input: The interior chambers have tiny what that trap the particles?
+Fact: In air purifiers, the interior chambers contain filters made of fibres, such as activated carbon, that are designed to trap particles such as dust, pollen, and other allergens.
+
+Input: If you are prone to postpone work what will you have to do in order to finish on time?
+Fact: To finish work on time, those who procrastinate must develop disciplined habits, break down tasks into smaller chunks, and set realistic goals and deadlines.
+
+Input: {question}
+Fact:

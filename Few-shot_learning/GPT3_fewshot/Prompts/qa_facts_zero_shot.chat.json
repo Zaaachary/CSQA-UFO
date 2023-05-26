@@ -1,0 +1,15 @@
+[
+    {
+        "role": "system",
+        "content": "Select the best choice for the given question, the related reference may help. (Give the answer key directly.)"
+    },
+    {
+        "role": "user",
+        "content": "Question: {question}\nReference{facts}\nChoices: {choices}"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer:"
+    }
+]
+

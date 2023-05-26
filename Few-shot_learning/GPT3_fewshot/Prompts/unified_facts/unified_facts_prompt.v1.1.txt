@@ -1,0 +1,16 @@
+Generate some facts to help the judgement or answering of the given assertion or question.
+
+Input: The scattering parameters of a passive filter should always be smaller than 0 dB.
+Facts: A passive filter has no gain, so all its parameters should be negative or zero.
+
+Input: Name something that an athlete would not keep in her refrigerator.
+Facts: Keeping junk food and sugary drinks in the refrigerator can reduce an athlete's performance due to the unhealthy ingredients and high levels of sugar.
+
+Input: A dead person can still be heard to speak on a recorded video.
+Facts: recordings are a permanent record of sound that can be played back at any time, regardless of whether the person is alive or not.
+
+Input: Name something that a monk probably would not own.
+Facts: Monks typically live a life of poverty and simplicity. They often take a vow of celibacy and abstain from owning material possessions. They also usually avoid activities and items that could be seen as indulgent.
+
+Input: {question}
+Facts:

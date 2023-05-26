@@ -1,0 +1,15 @@
+[
+    {
+        "role": "system",
+        "content": "Select the best choice for the given question (Anyway, one option must be chosen)."
+    },
+    {
+        "role": "user",
+        "content": "Question: {question}\nChoices: {choices}"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer (A-H):"
+    }
+]
+

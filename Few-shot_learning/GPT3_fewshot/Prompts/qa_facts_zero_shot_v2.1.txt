@@ -1,0 +1,5 @@
+Select the best choice for the given question, the related context may help. 
+Context: {facts}
+Question: {question}
+Choices: {choices}
+Answer:

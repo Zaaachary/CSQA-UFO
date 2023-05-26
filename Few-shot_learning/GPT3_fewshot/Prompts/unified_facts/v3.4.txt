@@ -1,0 +1,18 @@
+Relevant facts can be beneficial in question answering or assertion judgment, here are some examples:
+
+Input: Some arizona cities have over a million people.
+Fact: Arizona is the 14th most populous state in the US, with over 7.3 million people. Of those, the cities of Phoenix, Tucson, Mesa, and Chandler each have populations of over a million people.
+
+Input: Small reptiles in Texas can be brown or green on command, we call this
+Fact: Texas horned lizards are small reptiles native to Texas and other parts of the southern US. They have the ability to change their colour on command in order to camouflage with their environment.
+
+Input: There is at least one example of human blood type in the following list: AC, AH, C, OH, BB.
+Fact: There are 4 different blood types – A, B, AB and O. These names indicate whether the blood’s red cells carry the A antigen, the B antigen, both A and B antigens, or neither antigen.
+
+Input: The interior chambers have tiny what that trap the particles?
+Fact: In air purifiers, the interior chambers contain filters made of fibres, such as activated carbon, that are designed to trap particles such as dust, pollen, and other allergens.
+
+According to the examples, fact generation requires a description of the knowledge related to the question rather than directly answering the question or making a judgment. Now, generate relevant facts (30 words or less) for the given input.
+
+Input: {question}
+Fact:

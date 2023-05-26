@@ -1,0 +1,4 @@
+Given an assertion or Yes/No question, classify it into one of two categories: Yes or No.
+
+Q: {question}
+A: It is known that {facts}. So the answer is

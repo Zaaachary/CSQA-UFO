@@ -1,0 +1,12 @@
+python gpt3_fewshot.py \
+    --task_type qa_desc \
+    --data_type protoqa \
+    --prompt_path /SISDC_GPFS/Home_SE/hy-suda/zfli/CODE/Project-Final/Few-shot_learning/GPT3_fewshot/Prompts/ProtoQA/ptqa_qa_desc_v3.3.txt \
+    --input_path /SISDC_GPFS/Home_SE/hy-suda/zfli/CODE/Project-Final/Data/Constructed_data/ProtoQA/Few-shot_description/protoqa_v3_curie/fewshot_description_v1/dev.crowdsourced.jsonl \
+    --output_path /SISDC_GPFS/Home_SE/hy-suda/zfli/CODE/Project-Final/Data/Constructed_data/ProtoQA/Few-shot_QA/desc_QA/dev.v3.3.jsonl \
+    --start_idx 0 \
+    --end_idx -1 \
+    --frequency_penalty 0.0 \
+    --engine davinci \
+    --output_num 1 \
+    --max_tokens 64

@@ -1,0 +1,13 @@
+python gpt3_fewshot.py ^
+    --data_type qasc ^
+    --task_type qa ^
+    --prompt_path D:\Project\CSQA-UFO\Few-shot_learning\GPT3_fewshot\Prompts\qa_zero_shot.chat.json^
+    --input_path D:\Project\CSQA-UFO\Constructed_data\QASC\gpt-3-qa\dev.chat.filter.jsonl  ^
+    --output_path D:\Project\CSQA-UFO\Constructed_data\QASC\gpt-3-qa\dev.chat.2.jsonl ^
+    --temperature 0 ^
+    --top_p 0 ^
+    --start_idx 0 ^
+    --end_idx -1 ^
+    --output_num 1 ^
+    --engine gpt-3.5-turbo ^
+    --max_tokens 5

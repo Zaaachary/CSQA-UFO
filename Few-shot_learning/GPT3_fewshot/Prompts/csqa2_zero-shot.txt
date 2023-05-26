@@ -1,0 +1,4 @@
+Given a question, classify it into one of two categories: Yes or No.
+
+Question: {question}
+Answer:
