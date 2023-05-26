@@ -3,9 +3,7 @@ import yaml
 
 # Config
 # CONFIG_FILE = Path('config.yml')
-# OPENAI_API_KEY = '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'    # zachary
-# OPENAI_API_KEY = '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'
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 # try:
 #     with open(CONFIG_FILE) as f:
 #         config = yaml.load(f, Loader=yaml.FullLoader)
